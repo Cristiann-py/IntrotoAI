@@ -1,7 +1,7 @@
 # pip install openai
 from openai import OpenAI
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="apikey")
 
 # Set your OpenAI API key
   # Replace with your key or set it in the environment
