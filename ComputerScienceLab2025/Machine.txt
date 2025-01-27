@@ -1,0 +1,3 @@
+Teachable Machine Website Links!
+Base Website:  https://teachablemachine.withgoogle.com/train/image
+Pre-Trained Model:  https://teachablemachine.withgoogle.com/models/YmfJhCH3n/
